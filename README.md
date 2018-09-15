@@ -10,6 +10,6 @@ This script:
 
 Do manually.
 
-Installation:
+# How to use:
 
 Install Python, then, run through the command prompt by `python keepToText.py`
