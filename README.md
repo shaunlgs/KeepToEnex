@@ -9,3 +9,6 @@ This script:
 - Does not copy Date/ Time.
 
 Do manually.
+
+Installation:
+Install Python, then, run through the command prompt by `python keepToText.py`
