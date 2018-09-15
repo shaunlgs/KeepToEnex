@@ -12,4 +12,4 @@ Do manually.
 
 # How to use
 
-Install Python, then, run through the command prompt by `python keepToText.py`
+Install Python, then, run the script through the command prompt by `python keepToText.py`.
